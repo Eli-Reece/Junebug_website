@@ -1,0 +1,7 @@
+-----------inital---------------
+npx. npx create-react-app my-app.
+npm. npm init react-app my-app.
+------------post-----------------
+cd my-app
+npm install 
+npm start or yarn start.
